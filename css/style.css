@@ -259,7 +259,7 @@ input {
 
 /*----INTRO-------*/
 .intro {
-  background: url(/img/main/intro\ cover.jpg) no-repeat center;
+  background: url(img/main/intro\ cover.jpg) no-repeat center;
   width: 100%;
   background-color: #050827;
 }
