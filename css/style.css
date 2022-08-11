@@ -48,6 +48,11 @@ input {
   line-height: inherit;
   margin: 0;
 }
+input[type="submit"] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
 
 /* Обнуления*/
 
